@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/lab1.unity
+    guid: ef33ce330c137dd48b486e58e42e12da
+  - enabled: 1
+    path: Assets/Scenes/lab2.unity
+    guid: 3ffb8a43ba44f1148b03aed4ab7b8ef9
+  - enabled: 1
+    path: Assets/Scenes/lab3.unity
+    guid: 61d552de37b62984cb04c2c79caa38c1
+  - enabled: 1
+    path: Assets/Scenes/lab4.unity
+    guid: 0f97aa7aa518bd241b9bef4db914461a
+  - enabled: 1
+    path: Assets/Scenes/lab5.unity
+    guid: ce434aa1a6196f640abb4a0caa4df7ad
+  - enabled: 1
+    path: Assets/Scenes/lab6.unity
+    guid: 6790fbc8417a02e4b9f661e4747ab2c4
+  - enabled: 1
+    path: Assets/Scenes/Sandbox.unity
+    guid: ecfe1d4bedddcca4fbf816321f5db79f
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: cbfc8cfec1ee8bd4b9c57e5b779681ec, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6487cf7324dc04940acd6821f195b0c6, type: 2}
+  m_UseUCBPForAssetBundles: 0
